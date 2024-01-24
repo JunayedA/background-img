@@ -1,0 +1,19 @@
+body{
+    /* background-color: lightcoral; */
+    background-image: url("/neom-StbFt6TU1xs-unsplash.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 100px;
+    background-position: right top;
+    /* border: 1px solid black; */
+    /* border-spacing: 2px;
+    border-color: blue;
+    border-style: solid; */
+    /* background-size: 150px; */
+  /* width: 300px; */
+  /* height: 300px; */
+  /* border: 2px solid;
+  color: pink; */
+  resize: both;
+  /* overflow: scroll; */
+}
